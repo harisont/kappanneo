@@ -18,3 +18,6 @@ let's see how it goes ...
  - [sommersi e salvati](https://it.wikipedia.org/wiki/I_sommersi_e_i_salvati) /primo levi
  - [l'étranger](https://fr.wikipedia.org/wiki/L%27%C3%89tranger) /albert camus
  - [la peste](https://fr.wikipedia.org/wiki/La_Peste) /albert camus
+
+### people i admire - aka reasons to buy a sailboat
+ - [hundred rabbits](https://100r.co/site/about_us.html)
