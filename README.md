@@ -9,7 +9,7 @@ let's see how it goes ...
  - less is more
  - god is change
 
-### recently read books 
+### recently read books (latest-first)
  - [parable of the talents](https://en.wikipedia.org/wiki/Parable_of_the_Talents_(novel)) /olivia butler
  - [parable of the sower](https://en.wikipedia.org/wiki/Parable_of_the_Sower_(novel)) /olivia butler
  - the whole [saga malaussène](https://fr.wikipedia.org/wiki/Saga_Malauss%C3%A8ne) /daniel pennac
