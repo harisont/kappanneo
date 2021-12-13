@@ -25,6 +25,6 @@ let's see how it goes ...
 ### people I admire - aka reasons to buy a sailboat
  - [Hundred Rabbits](https://100r.co/site/about_us.html)
 
-### sources of information (video/audio)
+### news reports (video/audio)
  - eng: [Democracy Now!](https://www.democracynow.org/shows)
  - ita: [Braking Italy](https://www.youtube.com/user/breakingitaly)
