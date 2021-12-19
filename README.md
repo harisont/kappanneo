@@ -8,7 +8,7 @@ check out also my [sambo](https://sverigesradio.se/artikel/what-does-it-mean-to-
 ### beliefs
  - capitalization is an unnecessary evil
  - less is more
- - god is changehttps://translate.google.com/?sl=sv&tl=en&text=sambo&op=translate
+ - god is change
 
 ### recently read books (latest-first)
  - [Parable of the Talents](https://en.wikipedia.org/wiki/Parable_of_the_Talents_(novel)) /Olivia Butler
