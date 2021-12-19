@@ -26,6 +26,6 @@ check out also my [sambo](https://sverigesradio.se/artikel/what-does-it-mean-to-
 ### people I admire - aka reasons to buy a sailboat
  - [Hundred Rabbits](https://100r.co/site/about_us.html)
 
-### news reports (video/audio)
+### news reports I rely on (video/audio)
  - [Democracy Now!](https://www.democracynow.org/shows) (eng, USA)
  - [Braking Italy](https://www.youtube.com/user/breakingitaly) (ita, IT)
