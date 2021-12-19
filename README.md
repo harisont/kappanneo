@@ -2,7 +2,7 @@
 
 ###### this is the closest thing to a website/social-network profile I'll ever have the patience to *maybe* maintain, let's see how it goes ...
 
-**in short**: I'm an Italian ([he/him](https://en.pronouns.page/@kappanneo)) who was able to see outside the Italian cultural bubble and eventually managed to escape to Sweden ([cv](https://github.com/Kappanneo/CV/releases/latest/download/CV.pdf)), 
+**in short**: I'm an Italian ([he/him](https://en.pronouns.page/@kappanneo)) who was able to see outside the Italian cultural bubble and eventually managed to escape to Sweden (more on my [cv](https://github.com/Kappanneo/CV/releases/latest/download/CV.pdf)), 
 check out also my [sambo](https://sverigesradio.se/artikel/what-does-it-mean-to-be-a-sambo-in-sweden)'s github: [harisont](../../../../harisont)
 
 ### beliefs
