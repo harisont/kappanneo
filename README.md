@@ -2,7 +2,7 @@
 
 ###### this is the closest thing to a website/social-network profile I'll ever have the patience to *maybe* maintain, let's see how it goes ...
 
-in short: I'm an Italian who managed to see outside the cultural bubble and eventually managed to escape to Sweden
+in short: I'm an Italian who was able to see outside the cultural bubble and eventually managed to escape to Sweden
 ([he/him](https://en.pronouns.page/@kappanneo))
 
 ### beliefs
