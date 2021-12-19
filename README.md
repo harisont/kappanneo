@@ -4,11 +4,12 @@
 
 in short: I'm an Italian who was able to see outside the cultural bubble and eventually managed to escape to Sweden
 ([he/him](https://en.pronouns.page/@kappanneo))
+check out aso my [sambo](https://translate.google.com/?sl=sv&tl=en&text=sambo&op=translate)'s github: [harisont](../harisont)
 
 ### beliefs
  - capitalization is an unnecessary evil
  - less is more
- - god is change
+ - god is changehttps://translate.google.com/?sl=sv&tl=en&text=sambo&op=translate
 
 ### recently read books (latest-first)
  - [Parable of the Talents](https://en.wikipedia.org/wiki/Parable_of_the_Talents_(novel)) /Olivia Butler
