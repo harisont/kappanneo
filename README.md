@@ -2,9 +2,9 @@
 
 ###### this is the closest thing to a website/social-network profile I'll ever have the patience to *maybe* maintain, let's see how it goes ...
 
-in short: I'm an Italian who was able to see outside the cultural bubble and eventually managed to escape to Sweden
-([he/him](https://en.pronouns.page/@kappanneo))
-check out aso my [sambo](https://translate.google.com/?sl=sv&tl=en&text=sambo&op=translate)'s github: [harisont](../../../../harisont)
+**in short**: I'm an Italian who was able to see outside the Italian cultural bubble and eventually managed to escape to Sweden
+([he/him](https://en.pronouns.page/@kappanneo)),
+check out aso my [sambo](https://sverigesradio.se/artikel/what-does-it-mean-to-be-a-sambo-in-sweden)'s github: [harisont](../../../../harisont)
 
 ### beliefs
  - capitalization is an unnecessary evil
