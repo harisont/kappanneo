@@ -2,6 +2,9 @@
 
 ###### this is the closest thing to a website/social-network profile I'll ever have the patience to *maybe* maintain, let's see how it goes ...
 
+In short: I'm an Italian who managed to see outside the cultural bubble and eventually managed to escape to Sweden
+[he/him](https://en.pronouns.page/@kappanneo)
+
 ### beliefs
  - capitalization is an unnecessary evil
  - less is more
