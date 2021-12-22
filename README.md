@@ -14,7 +14,7 @@ check out also my [sambo](https://sverigesradio.se/artikel/what-does-it-mean-to-
  - [Parable of the Talents](https://en.wikipedia.org/wiki/Parable_of_the_Talents_(novel)) /Olivia Butler
  - [Parable of the Sower](https://en.wikipedia.org/wiki/Parable_of_the_Sower_(novel)) /Olivia Butler
  - the whole [Saga Malaussène](https://fr.wikipedia.org/wiki/Saga_Malauss%C3%A8ne) in its italian translation /Daniel Pennac
- - [I sommersi e salvati](https://it.wikipedia.org/wiki/I_sommersi_e_i_salvati) /Primo Levi
+ - [I sommersi e i salvati](https://it.wikipedia.org/wiki/I_sommersi_e_i_salvati) /Primo Levi
  - [La Tregua](https://it.wikipedia.org/wiki/La_tregua_(Primo_Levi)) /Primo Levi
  - [Se questo è un uomo](https://it.wikipedia.org/wiki/Se_questo_%C3%A8_un_uomo) /Primo Levi
  - Lo Straniero ([L'Étranger](https://fr.wikipedia.org/wiki/L%27%C3%89tranger)) /Albert Camus
