@@ -19,16 +19,16 @@ check out also my [sambo](https://sverigesradio.se/artikel/what-does-it-mean-to-
  - [I sommersi e salvati](https://it.wikipedia.org/wiki/I_sommersi_e_i_salvati) /Primo Levi
  - Lo Straniero ([L'Étranger](https://fr.wikipedia.org/wiki/L%27%C3%89tranger)) /Albert Camus
  - [La Peste](https://fr.wikipedia.org/wiki/La_Peste) /Albert Camus
- - [Gödel, Escher, Bach](https://en.wikipedia.org/wiki/G%C3%B6del,_Escher,_Bach) (GEB) in its italian translation /Douglas R. Hofstader
+ - [Gödel, Escher, Bach: an Eternal Golden Braid](https://en.wikipedia.org/wiki/G%C3%B6del,_Escher,_Bach) in its italian translation /Douglas R. Hofstader
 
 ### ... and comics
  - Tänk positivt annars kan du dö (Think positive or you might die) /Marie Tillman
  - 20th Century Boys ([20世紀少年](https://zh.wikipedia.org/wiki/20%E4%B8%96%E7%B4%80%E5%B0%91%E5%B9%B4)) /Naoki Urasawa (浦澤直樹)
- - [LOGICOMIX](https://el.wikipedia.org/wiki/Logicomix) /Apostolos Doxiadis (Απόστολος Κ. Δοξιάδης) & Christos Papadimitriou (Χρίστος Παπαδημητρίου)
+ - [LOGICOMIX](https://el.wikipedia.org/wiki/Logicomix) (italian translation) /Apostolos Doxiadis (Απόστολος Κ. Δοξιάδης) & Christos Papadimitriou (Χρίστος Παπαδημητρίου)
 
 ### people I admire - aka reasons to buy a sailboat
  - [Hundred Rabbits](https://100r.co/site/about_us.html)
 
 ### news reports I rely on (video/audio)
- - [Democracy Now!](https://www.democracynow.org/shows) (eng, USA)
+ - [Democracy Now!](https://www.democracynow.org/shows) (eng, US)
  - [Braking Italy](https://www.youtube.com/user/breakingitaly) (ita, IT)
