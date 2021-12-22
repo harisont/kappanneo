@@ -19,7 +19,7 @@ check out also my [sambo](https://sverigesradio.se/artikel/what-does-it-mean-to-
  - [I sommersi e salvati](https://it.wikipedia.org/wiki/I_sommersi_e_i_salvati) /Primo Levi
  - Lo Straniero ([L'Étranger](https://fr.wikipedia.org/wiki/L%27%C3%89tranger)) /Albert Camus
  - [La Peste](https://fr.wikipedia.org/wiki/La_Peste) /Albert Camus
- - [Gödel, Escher, Bach](https://en.wikipedia.org/wiki/G%C3%B6del,_Escher,_Bach) in its italian translation /Douglas R. Hofstader
+ - [Gödel, Escher, Bach](https://en.wikipedia.org/wiki/G%C3%B6del,_Escher,_Bach) (GEB) in its italian translation /Douglas R. Hofstader
 
 ### ... and comics
  - Tänk positivt annars kan du dö (Think positive or you might die) /Marie Tillman
