@@ -1,6 +1,6 @@
 # about me
 
-###### this is the closest thing to a website/social-network profile iF'll ever have the patience to *maybe* maintain. let's see how it goes ...
+###### this is the closest thing to a website/social-network profile i'll ever have the patience to *maybe* maintain. let's see how it goes ...
 
 **in short**: i'm an italian [guy](https://en.pronouns.page/@kappanneo) who was able to see outside the italian cultural bubble and eventually managed to escape to sweden ([cv](https://github.com/Kappanneo/CV/releases/latest/download/CV.pdf)). 
 check out also my [sambo](https://sverigesradio.se/artikel/what-does-it-mean-to-be-a-sambo-in-sweden)'s github: [harisont](../../../../harisont)
@@ -32,4 +32,4 @@ check out also my [sambo](https://sverigesradio.se/artikel/what-does-it-mean-to-
 
 ### news reports i rely on (video/audio)
  - [Democracy Now!](https://www.democracynow.org/shows) (eng, US)
- - [Braking Italy](https://www.youtube.com/user/breakingitaly) (ita, IT)
+ - [Breaking Italy](https://www.youtube.com/user/breakingitaly) (ita, IT)
