@@ -1,8 +1,8 @@
 # about me
 
-###### this is the closest thing to a website/social-network profile I'll ever have the patience to *maybe* maintain. let's see how it goes ...
+###### this is the closest thing to a website/social-network profile iF'll ever have the patience to *maybe* maintain. let's see how it goes ...
 
-**in short**: I'm an italian [guy](https://en.pronouns.page/@kappanneo) who was able to see outside the italian cultural bubble and eventually managed to escape to sweden ([cv](https://github.com/Kappanneo/CV/releases/latest/download/CV.pdf)). 
+**in short**: i'm an italian [guy](https://en.pronouns.page/@kappanneo) who was able to see outside the italian cultural bubble and eventually managed to escape to sweden ([cv](https://github.com/Kappanneo/CV/releases/latest/download/CV.pdf)). 
 check out also my [sambo](https://sverigesradio.se/artikel/what-does-it-mean-to-be-a-sambo-in-sweden)'s github: [harisont](../../../../harisont)
 
 ### beliefs
@@ -27,9 +27,9 @@ check out also my [sambo](https://sverigesradio.se/artikel/what-does-it-mean-to-
  - 20th Century Boys ([20世紀少年](https://zh.wikipedia.org/wiki/20%E4%B8%96%E7%B4%80%E5%B0%91%E5%B9%B4)) /Naoki Urasawa (浦澤直樹)
  - [LOGICOMIX](https://el.wikipedia.org/wiki/Logicomix) (italian translation) /Apostolos Doxiadis (Απόστολος Κ. Δοξιάδης) & Christos Papadimitriou (Χρίστος Παπαδημητρίου)
 
-### people I admire - aka reasons to buy a sailboat
+### people i admire - aka reasons to buy a sailboat
  - [Hundred Rabbits](https://100r.co/site/about_us.html)
 
-### news reports I rely on (video/audio)
+### news reports i rely on (video/audio)
  - [Democracy Now!](https://www.democracynow.org/shows) (eng, US)
  - [Braking Italy](https://www.youtube.com/user/breakingitaly) (ita, IT)
