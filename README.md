@@ -23,7 +23,7 @@ check out also my [sambo](https://sverigesradio.se/artikel/what-does-it-mean-to-
  - [Gödel, Escher, Bach: an Eternal Golden Braid](https://en.wikipedia.org/wiki/G%C3%B6del,_Escher,_Bach) in its italian translation /Douglas R. Hofstader
 
 ### ... and comics
- - Gender Queer: a memoir <3 /Maia Kobabe
+ - Gender Queer: A Memoir /Maia Kobabe
  - Tänk positivt annars kan du dö (Think positive or you might die) /Marie Tillman
  - 20th Century Boys ([20世紀少年](https://zh.wikipedia.org/wiki/20%E4%B8%96%E7%B4%80%E5%B0%91%E5%B9%B4)) /Naoki Urasawa (浦澤直樹)
  - [LOGICOMIX](https://el.wikipedia.org/wiki/Logicomix) (italian translation) /Apostolos Doxiadis (Απόστολος Κ. Δοξιάδης) & Christos Papadimitriou (Χρίστος Παπαδημητρίου)
