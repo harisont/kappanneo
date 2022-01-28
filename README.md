@@ -13,6 +13,7 @@ check out also my [sambo](https://sverigesradio.se/artikel/what-does-it-mean-to-
 ### recently read books (latest-first)
  - [Parable of the Talents](https://en.wikipedia.org/wiki/Parable_of_the_Talents_(novel)) /Olivia Butler
  - [Parable of the Sower](https://en.wikipedia.org/wiki/Parable_of_the_Sower_(novel)) /Olivia Butler
+ - [Extraterrestre alla pari](https://it.wikipedia.org/wiki/Extraterrestre_alla_pari) /Bianca Pitzorno
  - the whole [Saga Malaussène](https://fr.wikipedia.org/wiki/Saga_Malauss%C3%A8ne) in its italian translation /Daniel Pennac
  - [Uno, nessuno e centomila](https://it.wikipedia.org/wiki/Uno,_nessuno_e_centomila) /Luigi Pirandello
  - [I sommersi e i salvati](https://it.wikipedia.org/wiki/I_sommersi_e_i_salvati) /Primo Levi
