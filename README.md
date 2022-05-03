@@ -9,7 +9,7 @@ that said, now i see myself as an [agender person](https://en.pronouns.page/@kap
 
 i've always loved biology and mathematics, therfore i:
 
-0. studied computer science (and **not** mathematics, as you can see tell by looking at the indexing of this list)
+0. studied computer science (and **not** mathematics, as you can tell by looking at the indexing of this list)
 1. managed to arrange an Erasmus excahnge in Sweden, where i spent my last semester of my italian bachelor 
 2. did my bachelor thesis on private blockchains and token-based access control (before its widespread adoption)
 3. hated what i saw in both the research, and the real, world
