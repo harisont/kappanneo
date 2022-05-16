@@ -12,9 +12,10 @@ i am still officially a *man* (e.g. on all my documents), also by genotype (my c
 
 ## greatest luck so far
 being able to:
-a. see outside the italian cultural bubble 
-b. -somehow- escape to sweden with the love of my life, Arianna, who is currenlty my "sambo" (swedish for cohinabitant partner).
+- see outside the italian cultural bubble 
+- somehow manage to expatriate to sweden with the love of my life, Arianna, who is my one and only sambo[^3] (but not my only partner)
 
+[^3]: swedish for cohinabitant partner: https://sverigesradio.se/artikel/what-does-it-mean-to-be-a-sambo-in-sweden
 
 ## my studies
 
@@ -42,7 +43,7 @@ for details, you can download my [cv](https://kappanneo.github.io/cv)
 
 ## more
 ### recomendations
-check out also my [sambo](https://sverigesradio.se/artikel/what-does-it-mean-to-be-a-sambo-in-sweden)'s [github](https://github.com/harisont) and [website](https://harisont.github.io)
+Arianna's [github](https://github.com/harisont) and [website](https://harisont.github.io)
 
 ### more me
 [kappann.eu](https://kappanneo.github.io)
