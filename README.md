@@ -23,7 +23,7 @@ being able to:
 ### past-to-current
 i've always loved chemistry and biology since i was a child, therfore i:
 
-0. studied *computer science*[^1]
+0. studied *computer science*
 1. managed to arrange an *Erasmus+ exchange in Sweden*, during the last semester of my italian bachelor 
 2. wrote my bachelor thesis about *private blockchains* and *token-based access control systems*[^2]
 3. hated what i saw in both the research, and the real, world
@@ -32,7 +32,6 @@ i've always loved chemistry and biology since i was a child, therfore i:
 6. switched master back to *just* computer science
 7. took one year off, beacause i needed to take a break, after twenty years of studying nonstop
 
-[^1]: and **not mathematics**, *as you can clearly tell by looking at the first index of the list*
 [^2]: allow me to say it: *"i like tokens since before they where cool"* (i don't really care tbh, security is not my field)
 
 ### coming next
