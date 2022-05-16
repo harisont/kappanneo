@@ -1,4 +1,5 @@
-# about me
+# kappanneo
+stuff about me
 
 ## mandatory gender stuff
 i was born in italy, assingned male at birth and for a long time (~25 years) i believed gender *as a concept* to be limited to biology (like chromosomes and stuff). got very disappointed when i saw how much of a social role it played (... and still plays) in almost all human societies around the world
