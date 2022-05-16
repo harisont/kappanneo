@@ -39,7 +39,7 @@ i've always loved chemistry and biology since i was a child, therfore i:
 8. going back to school (september 2022)
 
 ### yes but what about all the missing details
-for details, you can download my [cv](https://kappanneo.github.io/cv)
+for details, you can look at my [cv](https://kappanneo.github.io/cv)
 
 ## more
 ### recomendations
