@@ -2,7 +2,7 @@
 stuff about me
 
 ## mandatory gender stuff
-i was born in italy, assingned male at birth and for a long time (~25 years) i believed gender *as a concept* to be limited to biology (like chromosomes and stuff). got very disappointed when i saw how much of a social role it played (... and still plays) in almost all human societies around the world
+i was born in italy, assingned male at birth therefore for a long time (~25 years) i believed gender *as a concept* to be limited to biology (like chromosomes and stuff). got very disappointed when i saw how much of a social role it played (... and still plays) in almost all human societies around the world
 
 i am still officially a *man* (e.g. on all my documents), also by genotype (my chromosomes are XY\*) and by phenotype (i didn't experience lack of testosterone as far as i can tell), plus i *luckely* do not suffer from gender dysphoria, and i could easily identify as a *male* person ***if only we lived in a society capable of not making all kids of assumptions based on gender identity***
 
