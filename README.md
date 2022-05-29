@@ -46,4 +46,4 @@ for details, you can look at my [cv](https://kappanneo.github.io/cv)
 Arianna's [github](https://github.com/harisont) and [website](https://harisont.github.io)
 
 ### more me
-[kappann.eu](https://kappanneo.github.io)
+[kappann.eu](https://kappann.eu)
